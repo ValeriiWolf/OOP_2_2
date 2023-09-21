@@ -19,8 +19,9 @@ public class Main {
         System.out.println(draco);
         System.out.println(zahariy);
         System.out.println(chjoy);
+        System.out.println(ron.comparisonFeatures(germiona));
         System.out.println(germiona.comparisonPower(sedrik));
         System.out.println(germiona.comparisonFeatures(ron));
-        System.out.println(ron.comparisonFeatures(germiona));
+
     }
 }
